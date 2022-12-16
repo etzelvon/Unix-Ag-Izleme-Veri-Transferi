@@ -12,11 +12,11 @@ int main() {
 	"nonexistent","relies-on","approach","impractial","advance","produced","bahave","expected","secure","external","efficently","waste-resources","specification","requirements","schdule","existing-resources","notions","management","inside"};
 	
 	string tr[]={"iliskili","endiseli","bilgi","gerekli","basvurmak","bakis acilari","politika","dagitim","dahil olmus","tartismak","uygulamak","inanilmaz","ortaya cikan","mevcut","var olan","hizla","tuketmek","teslim etmek","ic ice","uzak","erisen","bakimli","bagimsiz","yenilikci","birlestirmek","guvenilirlik","degisir","onemli olcude","turlu","gelismis","belki","belirleme","gerekli","e-ticaret","etkilesmek","birlestirmek",
-	"islem","etkilesim","partiler","bireysel","karsilik","faturalama","maas","odeme","eglence","oncelikle","amaclanan","eglendirmek","sunulan","ayýrt edici","durumlar","ayirmak","etkilesimli nesneler","hesaplamali olarak","yogun","toplamak","cevre","gondermek","motor","olusan","toplanti","sinirlar","dahil etmek","kisitlamalar","gurup","baglac","gonderilen","arac","kapsamli dogrulama","dogrulama","hatirlamak",
+	"islem","etkilesim","partiler","bireysel","karsilik","faturalama","maas","odeme","eglence","oncelikle","amaclanan","eglendirmek","sunulan","ayÃ½rt edici","durumlar","ayirmak","etkilesimli nesneler","hesaplamali olarak","yogun","toplamak","cevre","gondermek","motor","olusan","toplanti","sinirlar","dahil etmek","kisitlamalar","gurup","baglac","gonderilen","arac","kapsamli dogrulama","dogrulama","hatirlamak",
 	"var olmayan","dayanir","yaklasmak","pratik olmayan","ilerlemek","uretilmis","davranmak","beklenen","guvenli","harici","verimli","atik kaynaklari","sartname","gereksinim","takvim","mevcut kaynaklar","kavramlar","yonetmek","iceri"};
 	
-	cout<<"Not:Türkçe Karakter Kullanmayýnýz..."<<endl;
-	cout<<"Çýkmak için -1"<<endl<<endl;
+	cout<<"Not:TÃ¼rkÃ§e Karakter KullanmayÃ½nÃ½z..."<<endl;
+	cout<<"Ã‡Ã½kmak iÃ§in -1"<<endl<<endl;
 	int n = sizeof(ing) / sizeof(ing[0]);
 	//cout<<n;
 	string tahmin;
@@ -42,10 +42,8 @@ int main() {
 							if(i==j){
 								cout<<"Tebrikler Dogru Cevap"<<endl<<endl;
 								break;
-							}
-							
-								
-							}
+							    }		
+						       }
 							++global;
 						}
 						
@@ -54,7 +52,7 @@ int main() {
 						
 						}
 						global=0;
-			     	}
+			     		}
 				}
 			}
 		 

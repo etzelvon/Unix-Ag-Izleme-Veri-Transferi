@@ -23,15 +23,9 @@ Makefile dosyası içinde otomatik bağımlıkları indirme mevcuttur.
 ## Projenin Temel İşlevleri
 Bu proje aşağıdaki temel işlevleri sunar:
 
-**Ağa Bağlı Cihazları Tara**:
-Ağ üzerinde bağlı olan cihazları tarar ve log dosyasına kaydeder.
-**Ağ Trafiğini İzle**:
-Ağ trafiğini gerçek zamanlı olarak izler ve terminale paket bilgilerini yazdırır.
-**Sunucu Ol**:
-Bir SSL/TLS sunucusu başlatır ve istemcilerden gelen bağlantıları kabul eder.
-**İstemci Ol**:
-Bir SSL/TLS istemcisi olarak sunucuya bağlanır ve log dosyasını sunucudan indirir.
-**Sistem Kaynaklarını İzle ve Raporla**:
-CPU, bellek, disk ve ağ kullanımını izler ve raporlar.
-**Anomali ve Saldırı Tespiti**:
-Anomali ve saldırı kalıplarını tespit eder ve kullanıcıya bildirir, log dosyasına kaydeder.
+**Ağa Bağlı Cihazları Tara**:Ağ üzerinde bağlı olan cihazları tarar ve log dosyasına kaydeder.
+**Ağ Trafiğini İzle**:Ağ trafiğini gerçek zamanlı olarak izler ve terminale paket bilgilerini yazdırır.
+**Sunucu Ol**:Bir SSL/TLS sunucusu başlatır ve istemcilerden gelen bağlantıları kabul eder.
+**İstemci Ol**:Bir SSL/TLS istemcisi olarak sunucuya bağlanır ve log dosyasını sunucudan indirir.
+**Sistem Kaynaklarını İzle ve Raporla**:CPU, bellek, disk ve ağ kullanımını izler ve raporlar.
+**Anomali ve Saldırı Tespiti**:Anomali ve saldırı kalıplarını tespit eder ve kullanıcıya bildirir, log dosyasına kaydeder.
